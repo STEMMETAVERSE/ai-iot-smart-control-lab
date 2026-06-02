@@ -1,0 +1,18 @@
+1. Smart Light System
+Arduino commands: LED_ON, LED_OFF
+
+2. Security System
+Arduino Commands: ALARM_ON, ALARM_OFF
+AI model: image classifier (Hugging Face vision API)
+
+3. Plant Monitor
+Arduino Commands: WATER_ON, WATER_OFF
+AI: plant health classifier
+
+4. Fan Controller
+Arduino Commands: FAN_LOW, FAN_HIGH, FAN_OFF
+AI: temperature → action mapping
+
+5. Classroom Assistant
+Arduino Commands: PROJECTOR_ON,  PROJECTOR_OFF, TIMER_START
+AI: LLM instruction parsing
